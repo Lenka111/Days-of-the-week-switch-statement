@@ -29,10 +29,13 @@ public class DaysOfTheWeek {
 //                break;
 //            case 2:
 //                System.out.println("Selected number: " +num +" for Tuesday");
-    //            case 3:
+//            case 3:
 //                System.out.println("Selected number: " +num +" for Wednesday");
-//
 //                break;
+//            case 4:
+//                System.out.println("Selected number: " +num +" for Thursday");
+//                break;
+    
 //            default:
 //                System.out.println("Invalid value");
 
